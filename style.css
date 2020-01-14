@@ -1,15 +1,23 @@
 html {
     margin: 0;
+    background: white;
+    padding: 0!important;
+    color: white;
 }
 body, form {
-    margin: 0;
-    padding: 0;
+    height: 100%;
+    background: #7b7bc1;
+    align-items: stretch;
+    min-height: 100%;
+    margin: 6em;
+    padding: 1em;
 }
 
+
 a {
-    color: #039;
+    color: #babaff;
 }
 
 a:hover {
-    color: #03F;    
+    color: #cacaec;    
 }
