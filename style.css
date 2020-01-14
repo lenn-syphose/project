@@ -3,6 +3,7 @@ html {
     background: white;
     padding: 0!important;
     color: white;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 body, form {
     height: 100%;
